@@ -1,22 +1,20 @@
-# Projeto de Desenvolvimento em Python
+# Respositório de Desafios Python da Comunidade [Python Brasil](https://discord.gg/aWR7K6AzeK)
 ## | Objetivo principal
 
 Desenvolver e aprimorar minhas habilidades com a tecnologia python.
 
-## | O projeto: Desafio Palíndromo
 
-O desafio foi lançado pela comunidade [Python Brasil](https://discord.com/channels/1142478776538763414/1155918502813773974/1155919159021011104), consiste num software que faça a validação de frases/sequências em palíndromos.
+## | O repositório: Desafios da Comunidade.
+Os desafios sao lançados semanalmente pela comunidade [Python Brasil](https://discord.gg/aWR7K6AzeK), consiste em desenvolver softwares em python que correspondam as especificações pré-requisitadas no canal principal de desafios deles.
 
+## | O que encontrarei nesse repositório?
 
-## | O que encontrarei nesse projeto?
-
-* Duas versões do software supracitado.
-    * [Versão 1](https://github.com/lucasgleria/desafioPalindromo/blob/main/palindromo_v1.py)
-        * Software em python puro.
-        * Executa em linha de comando
-    * [Versão 2](https://github.com/lucasgleria/desafioPalindromo/blob/main/palindromo_v2.py)
-        * Utiliza biblioteca PySimpleGUI
-        * Executa em interface gráfica (GUI)
+* Desafio Semana 1.
+    * [Software Aferidor de Palíndromo em linha de comando.](https://github.com/lucasgleria/desafiosPythonBrasil/blob/main/desafio1-palindromo/palindromo_v1.py)
+    * [Software Aferidor de Palíndromo com GUI.](https://github.com/lucasgleria/desafiosPythonBrasil/blob/main/desafio1-palindromo/palindromo_v2.py)
+* Desafio Semana 2.
+    * Software Criptográfico em linha de comando.
+    * Software Criptográfico com GUI.
 
 ## | Tecnologias utilizadas
 
