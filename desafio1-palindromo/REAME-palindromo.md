@@ -3,6 +3,17 @@
 
 Desenvolver e aprimorar minhas habilidades com a tecnologia python.
 
+## | O que é um Palíndromo?
+
+Um palíndromo é uma palavra, frase, número ou sequência de caracteres que se lê da mesma forma de trás para frente, ignorando espaços, pontuação e diferenciação entre maiúsculas e minúsculas. Em outras palavras, é algo que permanece o mesmo se você inverter a ordem de seus elementos.
+
+Exemplos de palíndromos incluem:
+
+* "Ame o poema" (uma frase)
+* "12321" (um número)
+
+Os palíndromos são interessantes devido à sua simetria, e muitas pessoas gostam de encontrar palavras ou frases palindrômicas como um tipo de jogo linguístico.
+
 ## | O projeto: Desafio Palíndromo
 
 O desafio foi lançado pela comunidade [Python Brasil](https://discord.com/channels/1142478776538763414/1155918502813773974/1155919159021011104), consiste num software que faça a validação de frases/sequências em palíndromos.
