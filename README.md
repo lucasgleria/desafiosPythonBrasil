@@ -1,7 +1,3 @@
-Com certeza\! Aqui está o seu README reescrito, utilizando o template que você forneceu:
-
------
-
 # 🐍 Repositório de Desafios Python
 
 **Desafios de programação em Python propostos pela comunidade Python Brasil, com foco no desenvolvimento e aprimoramento de habilidades na linguagem.**
